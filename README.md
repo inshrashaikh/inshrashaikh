@@ -12,7 +12,6 @@
 - 💻 Deep into **AI/ML** and intelligent systems
 - 📊 I like turning messy data into something that actually makes sense
 - 🌱 Always learning, always building
-## 🛠️ Tech Stack
 
 
 ## 🌐 Socials:
