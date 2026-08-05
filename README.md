@@ -1,6 +1,7 @@
 # Hey, I'm Inshra 
 
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A101F,50:22D3EE,100:A78BFA&height=200&section=header&text=Turning%20Data%20Into%20Decisions&fontSize=38&fontColor=F8FAFC&animation=fadeIn&fontAlignY=50" />
   
 <div align="center">
